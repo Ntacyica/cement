@@ -1,0 +1,875 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4545927100,-1,N/A,,4545927100,,179910819,179910819,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,346261000,-1,N/A,,346261000,,12588751,12588751,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,442761600,-1,N/A,,442761600,,23480542,23480542,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,44197000,-1,N/A,,44197000,,1222923,1222923,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,365629200,-1,N/A,,365629200,,12608559,12608559,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,149618900,-1,N/A,,149618900,,5366124,5366124,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,284000000,-1,N/A,,284000000,,9435484,9435484,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,45521900,-1,N/A,,45521900,,960245,960245,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,400297800,-1,N/A,,400297800,,19809776,19809776,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,17906700,-1,N/A,,17906700,,1454403,1454403,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,270387000,-1,N/A,,270387000,,12695805,12695805,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,363450700,-1,N/A,,363450700,,13677892,13677892,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,216423000,-1,N/A,,216423000,,7113860,7113860,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,137950200,-1,N/A,,137950200,,4771389,4771389,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,13900,-1,N/A,,13900,,34602,34602,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,123631000,-1,N/A,,123631000,,3675991,3675991,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,112501300,-1,N/A,,112501300,,4297592,4297592,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,40387000,-1,N/A,,40387000,,1687768,1687768,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,160257000,-1,N/A,,160257000,,5077511,5077511,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,74551000,-1,N/A,,74551000,,2570740,2570740,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1269600,-1,N/A,,1269600,,163462,163462,,0
+H1,2000,2000,2000,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,948911300,-1,N/A,,948911300,,37217399,37217399,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,467410600,-1,N/A,,467410600,,26183150,26183150,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,13650000,-1,N/A,,13650000,,765647,765647,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,378645000,-1,N/A,,378645000,,14651668,14651668,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,65000,-1,N/A,,65000,,2579,2579,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,386007600,-1,N/A,,386007600,,13423726,13423726,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,304642600,-1,N/A,,304642600,,9528384,9528384,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3717500,-1,N/A,,3717500,,65658,65658,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,425100000,-1,N/A,,425100000,,14173200,14173200,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,503437800,-1,N/A,,503437800,,25865211,25865211,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,27327700,-1,N/A,,27327700,,2217724,2217724,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,48000000,-1,N/A,,48000000,,1438761,1438761,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,181528800,-1,N/A,,181528800,,7514942,7514942,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,121314100,-1,N/A,,121314100,,4156696,4156696,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,50422800,-1,N/A,,50422800,,1764008,1764008,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,13161000,-1,N/A,,13161000,,444573,444573,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,293834000,-1,N/A,,293834000,,10291496,10291496,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,35191600,-1,N/A,,35191600,,1295686,1295686,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1649400,-1,N/A,,1649400,,231998,231998,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2223257300,-1,N/A,,2223257300,,84991508,84991508,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1300,-1,N/A,,1300,,3036,3036,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,300,-1,N/A,,300,,985,985,,0
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2092,-1,N/A,,2092,,3860,3860,,6
+H1,2001,2001,2001,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5478366492,-1,N/A,,5478366492,,219014496,219014496,,6
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,362714000,-1,N/A,,362714000,,14629778,14629778,,0
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,325991900,-1,N/A,,325991900,,20662407,20662407,,0
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,709209200,-1,N/A,,709209200,,23466462,23466462,,0
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,129810100,-1,N/A,,129810100,,4587253,4587253,,0
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,16000000,-1,N/A,,16000000,,540263,540263,,0
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,252365700,-1,N/A,,252365700,,16744226,16744226,,0
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,80040000,-1,N/A,,80040000,,2513213,2513213,,0
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,120141500,-1,N/A,,120141500,,4475514,4475514,,0
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,34172600,-1,N/A,,34172600,,1064333,1064333,,0
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,161313000,-1,N/A,,161313000,,7043403,7043403,,0
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1416000,-1,N/A,,1416000,,121831,121831,,0
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,635661000,-1,N/A,,635661000,,21547138,21547138,,0
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2372700,-1,N/A,,2372700,,352059,352059,,0
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3115592600,-1,N/A,,3115592600,,112569541,112569541,,0
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3000,-1,N/A,,3000,,1360,1360,,0
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,56312,-1,N/A,,56312,,2181,2181,,6
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5946860012,-1,N/A,,5946860012,,230321783,230321783,,6
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,200,-1,N/A,,200,,85,85,,0
+H2,2002,2002,2002,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,200,-1,N/A,,200,,736,736,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,725200,-1,N/A,,725200,,43460,43460,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,264737500,-1,N/A,,264737500,,18232395,18232395,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,395393000,-1,N/A,,395393000,,17667950,17667950,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,412402200,-1,N/A,,412402200,,13646010,13646010,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5072900,-1,N/A,,5072900,,172109,172109,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,291164000,-1,N/A,,291164000,,21457765,21457765,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2277481300,-1,N/A,,2277481300,,79949492,79949492,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,68742000,-1,N/A,,68742000,,2213675,2213675,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,568,"Other Europe, nes",E19,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,210300,-1,N/A,,210300,,16386,16386,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,16587000,-1,N/A,,16587000,,674366,674366,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,160843500,-1,N/A,,160843500,,7827136,7827136,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,645427000,-1,N/A,,645427000,,23189957,23189957,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,26632400,-1,N/A,,26632400,,1064328,1064328,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,332000,-1,N/A,,332000,,8764,8764,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2654900,-1,N/A,,2654900,,379094,379094,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2640462500,-1,N/A,,2640462500,,102195616,102195616,,0
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2256,-1,N/A,,2256,,90,90,,6
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,106738603,-1,N/A,,106738603,,4572170,4572170,,6
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,7315608759,-1,N/A,,7315608759,,293311903,293311903,,6
+H2,2003,2003,2003,6,1,0,M,97,EU-28,EUR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,200,-1,N/A,,200,,1142,1142,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,41040200,-1,N/A,,41040200,,1904419,1904419,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,15600,-1,N/A,,15600,,4937,4937,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,257389700,-1,N/A,,257389700,,20889566,20889566,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,21784800,-1,N/A,,21784800,,1259606,1259606,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,136603800,-1,N/A,,136603800,,5371954,5371954,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,17849900,-1,N/A,,17849900,,997857,997857,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,22806300,-1,N/A,,22806300,,895456,895456,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,317511400,-1,N/A,,317511400,,16279650,16279650,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,351257500,-1,N/A,,351257500,,26451784,26451784,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4633254200,-1,N/A,,4633254200,,211366528,211366528,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,109946000,-1,N/A,,109946000,,4920016,4920016,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,106278900,-1,N/A,,106278900,,4916335,4916335,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,22705700,-1,N/A,,22705700,,1141498,1141498,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,318244100,-1,N/A,,318244100,,14277307,14277307,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1882354800,-1,N/A,,1882354800,,87588170,87588170,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4150300,-1,N/A,,4150300,,684884,684884,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2900,-1,N/A,,2900,,982,982,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2900,-1,N/A,,2900,,187,187,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1400,-1,N/A,,1400,,572,572,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,891,Serbia and Montenegro,SCG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,300,-1,N/A,,300,,1517,1517,,0
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,69285,-1,N/A,,69285,,2487,2487,,6
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,13362,-1,N/A,,13362,,647,647,,6
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,20374,-1,N/A,,20374,,12461,12461,,6
+H2,2004,2004,2004,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8243303721,-1,N/A,,8243303721,,398968822,398968822,,6
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,407949300,-1,N/A,,407949300,,34665183,34665183,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,21400000,-1,N/A,,21400000,,986914,986914,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,50575700,-1,N/A,,50575700,,2881025,2881025,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,34797600,-1,N/A,,34797600,,1796460,1796460,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,41800000,-1,N/A,,41800000,,2492095,2492095,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,117968500,-1,N/A,,117968500,,6723961,6723961,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,410477000,-1,N/A,,410477000,,23555177,23555177,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,292440000,-1,N/A,,292440000,,21668332,21668332,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,37329000,-1,N/A,,37329000,,2040030,2040030,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,25000,-1,N/A,,25000,,2236,2236,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,119705900,-1,N/A,,119705900,,3936166,3936166,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,43222100,-1,N/A,,43222100,,2304529,2304529,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,130513100,-1,N/A,,130513100,,7183901,7183901,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,55154000,-1,N/A,,55154000,,3264155,3264155,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3219106800,-1,N/A,,3219106800,,180010292,180010292,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,891,Serbia and Montenegro,SCG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,27809000,-1,N/A,,27809000,,1166021,1166021,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,280743400,-1,N/A,,280743400,,15420719,15420719,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2734182100,-1,N/A,,2734182100,,142120290,142120290,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1800,-1,N/A,,1800,,3267,3267,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1100,-1,N/A,,1100,,1304,1304,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,300,-1,N/A,,300,,956,956,,0
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2206407856,-1,N/A,,2206407856,,119543220,119543220,,6
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,31625,-1,N/A,,31625,,16892,16892,,6
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,10231641503,-1,N/A,,10231641503,,571783186,571783186,,6
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,222,-1,N/A,,222,,12,12,,6
+H2,2005,2005,2005,6,1,0,M,97,EU-28,EUR,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,100,-1,N/A,,100,,50,50,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,21650000,-1,N/A,,21650000,,1849469,1849469,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,337523500,-1,N/A,,337523500,,31612725,31612725,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,81994500,-1,N/A,,81994500,,5175022,5175022,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,149993800,-1,N/A,,149993800,,8544129,8544129,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,328136000,-1,N/A,,328136000,,22308243,22308243,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,25528100,-1,N/A,,25528100,,2182831,2182831,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,881046100,-1,N/A,,881046100,,58613472,58613472,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,13734000,-1,N/A,,13734000,,872964,872964,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,25453300,-1,N/A,,25453300,,991254,991254,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1707129500,-1,N/A,,1707129500,,99145358,99145358,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,300390400,-1,N/A,,300390400,,15926869,15926869,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,34802300,-1,N/A,,34802300,,2755411,2755411,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5150200,-1,N/A,,5150200,,263702,263702,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,85826200,-1,N/A,,85826200,,4982173,4982173,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,807338400,-1,N/A,,807338400,,52724126,52724126,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6773570900,-1,N/A,,6773570900,,374167675,374167675,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3500,-1,N/A,,3500,,3844,3844,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,900,-1,N/A,,900,,22399,22399,,0
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,541437991,-1,N/A,,541437991,,32514181,32514181,,6
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,74678467,-1,N/A,,74678467,,2975357,2975357,,6
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,640,-1,N/A,,640,,38,38,,6
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,12195388799,-1,N/A,,12195388799,,717632360,717632360,,6
+H2,2006,2006,2006,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,100,-1,N/A,,100,,1118,1118,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,10800000,-1,N/A,,10800000,,1037367,1037367,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,59457400,-1,N/A,,59457400,,5938558,5938558,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,83648800,-1,N/A,,83648800,,6673209,6673209,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,299023900,-1,N/A,,299023900,,28435913,28435913,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,32564100,-1,N/A,,32564100,,3245464,3245464,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,113138600,-1,N/A,,113138600,,10278307,10278307,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,906916800,-1,N/A,,906916800,,63259443,63259443,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,44900,-1,N/A,,44900,,26757,26757,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,94890700,-1,N/A,,94890700,,5848995,5848995,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,254154400,-1,N/A,,254154400,,21134302,21134302,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,17800,-1,N/A,,17800,,55738,55738,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1335300,-1,N/A,,1335300,,85006,85006,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,87820000,-1,N/A,,87820000,,6112742,6112742,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2172759800,-1,N/A,,2172759800,,155246731,155246731,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,16200,-1,N/A,,16200,,10538,10538,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,23700,-1,N/A,,23700,,2882,2882,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1246720800,-1,N/A,,1246720800,,102619850,102619850,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,103021300,-1,N/A,,103021300,,4111309,4111309,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6130000,-1,N/A,,6130000,,489607,489607,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,261479900,-1,N/A,,261479900,,16846791,16846791,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,18541200,-1,N/A,,18541200,,2127742,2127742,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,67900,-1,N/A,,67900,,14916,14916,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,160696300,-1,N/A,,160696300,,12847356,12847356,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,766531900,-1,N/A,,766531900,,63710067,63710067,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8993801200,-1,N/A,,8993801200,,611279567,611279567,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3200,-1,N/A,,3200,,1743,1743,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1800,-1,N/A,,1800,,2141,2141,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2000,-1,N/A,,2000,,1153,1153,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1500,-1,N/A,,1500,,1125,1125,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1300,-1,N/A,,1300,,5736,5736,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,400,-1,N/A,,400,,1249,1249,,0
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,117176,-1,N/A,,117176,,8384,8384,,6
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,15673730476,-1,N/A,,15673730476,,1121462307,1121462307,,6
+H3,2007,2007,2007,6,1,0,M,97,EU-28,EUR,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,200,-1,N/A,,200,,1619,1619,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,283482000,-1,N/A,,283482000,,35219052,35219052,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,32951000,-1,N/A,,32951000,,2597702,2597702,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,125394300,-1,N/A,,125394300,,11215866,11215866,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,486915700,-1,N/A,,486915700,,36018145,36018145,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,122791600,-1,N/A,,122791600,,15392596,15392596,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,57355500,-1,N/A,,57355500,,4937684,4937684,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,149654100,-1,N/A,,149654100,,11820668,11820668,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,45700,-1,N/A,,45700,,21678,21678,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,140008500,-1,N/A,,140008500,,15533437,15533437,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,967105400,-1,N/A,,967105400,,80046986,80046986,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,96553900,-1,N/A,,96553900,,4101719,4101719,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6007000,-1,N/A,,6007000,,534227,534227,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,46100,-1,N/A,,46100,,56044,56044,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,407893600,-1,N/A,,407893600,,39144106,39144106,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,266043200,-1,N/A,,266043200,,21275638,21275638,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,203700,-1,N/A,,203700,,44712,44712,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3200,-1,N/A,,3200,,11627,11627,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3600,-1,N/A,,3600,,3493,3493,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4351949600,-1,N/A,,4351949600,,363327973,363327973,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1050950600,-1,N/A,,1050950600,,100146340,100146340,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3100,-1,N/A,,3100,,2697,2697,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2400,-1,N/A,,2400,,3773,3773,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2500,-1,N/A,,2500,,1459,1459,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1900,-1,N/A,,1900,,398,398,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1400,-1,N/A,,1400,,1356,1356,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,700,-1,N/A,,700,,899,899,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1000,-1,N/A,,1000,,825,825,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,400,-1,N/A,,400,,663,663,,0
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,47442,-1,N/A,,47442,,72933,72933,,6
+H3,2008,2008,2008,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8545419142,-1,N/A,,8545419142,,741534696,741534696,,6
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,182892200,-1,N/A,,182892200,,23560959,23560959,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,159528600,-1,N/A,,159528600,,7492126,7492126,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,213890000,-1,N/A,,213890000,,24899823,24899823,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5637000,-1,N/A,,5637000,,470663,470663,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,65953000,-1,N/A,,65953000,,3476803,3476803,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,743577900,-1,N/A,,743577900,,49045943,49045943,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,61153800,-1,N/A,,61153800,,3367727,3367727,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8860300,-1,N/A,,8860300,,762066,762066,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,144820200,-1,N/A,,144820200,,11580617,11580617,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14131200,-1,N/A,,14131200,,1154641,1154641,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,76300,-1,N/A,,76300,,11793,11793,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1318169800,-1,N/A,,1318169800,,80144595,80144595,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3800,-1,N/A,,3800,,1241,1241,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1800,-1,N/A,,1800,,1213,1213,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1800,-1,N/A,,1800,,1241,1241,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1800,-1,N/A,,1800,,390,390,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1200,-1,N/A,,1200,,418,418,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,800,-1,N/A,,800,,209,209,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1442765366,-1,N/A,,1442765366,,85441282,85441282,,6
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,41883,-1,N/A,,41883,,4823,4823,,6
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4361509257,-1,N/A,,4361509257,,291420829,291420829,,6
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,209,-1,N/A,,209,,14,14,,6
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,100,-1,N/A,,100,,28,28,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,100,-1,N/A,,100,,42,42,,0
+H3,2009,2009,2009,6,1,0,M,97,EU-28,EUR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,100,-1,N/A,,100,,2175,2175,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1,8,kg,1,1,,1,1.324,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2791241330,8,kg,2791241330,2791241330,,194280626,194280626.948,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,19300,8,kg,19300,19300,,1022,1022.392,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,29,8,kg,29,29,,160,160.245,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,108,8,kg,108,108,,132,132.434,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,208038000,8,kg,208038000,208038000,,22898410,22898410.914,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,95,8,kg,95,95,,132,132.434,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,110,8,kg,110,110,,1,1.324,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,39,8,kg,39,39,,888,888.633,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1521,8,kg,1521,1521,,493,493.979,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3480,8,kg,3480,3480,,2064,2064.649,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,218346900,8,kg,218346900,218346900,,22409422,22409422.934,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,420,8,kg,420,420,,162,162.894,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,680,8,kg,680,680,,22,22.514,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,17220004,8,kg,17220004,17220004,,834057,834057.109,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,99178901,8,kg,99178901,99178901,,6927205,6927205.901,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,447,8,kg,447,447,,132,132.434,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,320,8,kg,320,320,,323,323.139,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,95130660,8,kg,95130660,95130660,,10584327,10584327.608,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,738,8,kg,738,738,,31,31.784,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1975,8,kg,1975,1975,,104,104.623,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3800,8,kg,3800,3800,,227,227.787,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6635,8,kg,6635,6635,,1350,1350.828,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,211,8,kg,211,211,,405,405.249,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,352642773,8,kg,352642773,352642773,,22579543,22579543.885,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,15084560,8,kg,15084560,15084560,,812825,812825.264,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6017,8,kg,6017,6017,,513,513.845,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,21607155,8,kg,21607155,21607155,,1075172,1075172.042,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4933,8,kg,4933,4933,,3942,3942.565,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1170,8,kg,1170,1170,,764,764.145,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,43000,8,kg,43000,43000,,2696,2696.36,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4091,8,kg,4091,4091,,3774,3774.374,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6369904,8,kg,6369904,6369904,,353842,353842.891,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,11146100,8,kg,11146100,11146100,,640772,640772.098,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,40,8,kg,40,40,,99,99.326,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14015,8,kg,14015,14015,,3831,3831.32,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1106117626,8,kg,1106117626,1106117626,,65529888,65529888.079,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,640245547,8,kg,640245547,640245547,,39611794,39611794.188,,0
+H3,2010,2010,2010,6,1,0,M,97,EU-28,EUR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,25,8,kg,25,25,,83,83.434,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5665,8,kg,5665,5665,,560,560.855,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,513,8,kg,513,513,,141,141.953,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8100,8,kg,8100,8100,,32038,32038.337,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,305,8,kg,305,305,,385,385.501,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,73278104,8,kg,73278104,73278104,,4054961,4054961.504,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,228745895,8,kg,228745895,228745895,,24948719,24948719.464,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1800,8,kg,1800,1800,,250,250.506,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3900,8,kg,3900,3900,,320,320.091,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6300,8,kg,6300,6300,,3104,3104.884,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,162868000,8,kg,162868000,162868000,,20610944,20610944.939,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2472,8,kg,2472,2472,,4929,4929.403,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,254,8,kg,254,254,,1571,1571.23,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,409,8,kg,409,409,,868,868.421,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,36595510,8,kg,36595510,36595510,,4159049,4159049.567,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2862,8,kg,2862,2862,,12990,12990.132,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5680,8,kg,5680,5680,,519,519.104,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,12458020,8,kg,12458020,12458020,,1529136,1529136.469,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3012750,8,kg,3012750,3012750,,177373,177373.618,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1885150,8,kg,1885150,1885150,,457801,457801.265,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,350973300,8,kg,350973300,350973300,,20963685,20963685.342,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5248,8,kg,5248,5248,,17142,17142.967,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,79297000,8,kg,79297000,79297000,,4392987,4392987.459,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,35333,8,kg,35333,35333,,9094,9094.763,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,28,8,kg,28,28,,48,48.71,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,16000,8,kg,16000,16000,,7911,7911.817,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,500,8,kg,500,500,,150,150.304,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,25515,8,kg,25515,25515,,11669,11669.409,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,119288,8,kg,119288,119288,,38962,38962.047,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,19,8,kg,19,19,,1,1.392,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,43012833,8,kg,43012833,43012833,,3054486,3054486.121,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,728350606,8,kg,728350606,728350606,,45558236,45558236.519,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,229352940,8,kg,229352940,229352940,,21620961,21620961.82,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,15,8,kg,15,15,,108,108.553,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,17,-1,N/A,0,17,,1,1.392,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1789,-1,N/A,0,1789,,139,139.17,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,17,-1,N/A,0,17,,1,1.392,,0
+H3,2011,2011,2011,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1950072139,-1,N/A,0,1950072139,,151671256,151671256.418,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1265,8,kg,1265,1265,,3797,3797.142,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,470,8,kg,470,470,,23,23.138,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,115,8,kg,115,115,,317,317.5,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,34382800,8,kg,34382800,34382800,,2112634,2112634.077,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,249254886,8,kg,249254886,249254886,,28072797,28072797.397,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,140,8,kg,140,140,,275,275.081,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,320,8,kg,320,320,,29,29.565,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,53,8,kg,53,53,,964,964.068,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,390,8,kg,390,390,,34,34.706,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,275,8,kg,275,275,,817,817.53,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,149356000,8,kg,149356000,149356000,,19311369,19311369.742,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1118,8,kg,1118,1118,,3583,3583.762,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,138,8,kg,138,138,,71,71.984,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,98,8,kg,98,98,,128,128.542,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,780,8,kg,780,780,,1556,1556.648,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,30644470,8,kg,30644470,30644470,,3310260,3310260.982,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,93,8,kg,93,93,,457,457.611,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,34,8,kg,34,34,,637,637.57,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,189827000,8,kg,189827000,189827000,,12694139,12694139.75,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3873191,8,kg,3873191,3873191,,928419,928419.286,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8290,8,kg,8290,8290,,906,906.224,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5200,8,kg,5200,5200,,273,273.795,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,206042000,8,kg,206042000,206042000,,11587645,11587645.545,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1000,8,kg,1000,1000,,2453,2453.874,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,20687,8,kg,20687,20687,,8707,8707.462,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6017,8,kg,6017,6017,,2405,2405.028,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,10848,8,kg,10848,10848,,2113,2113.237,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3218,8,kg,3218,3218,,1286,1286.709,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,482515511,8,kg,482515511,482515511,,28680504,28680504.698,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14285009,8,kg,14285009,14285009,,5214398,5214398.012,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,15,8,kg,15,15,,5,5.142,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,15,8,kg,15,15,,89,89.98,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8,8,kg,8,8,,24,24.423,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,180,-1,N/A,0,180,,307,307.216,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1360248584,-1,N/A,0,,,111944009,111944009.439,,0
+H4,2012,2012,2012,6,1,0,M,97,EU-28,EUR,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6950,-1,N/A,0,,,572,572.014,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1100,8,kg,1100,1100,,1621,1621.52,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2960,8,kg,2960,2960,,6520,6520.608,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1700,8,kg,1700,1700,,74,74.369,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,18955000,8,kg,18955000,18955000,,1132212,1132212.644,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,234892584,8,kg,234892584,234892584,,26000654,26000654.281,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4000,8,kg,4000,4000,,790,790.176,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,71,8,kg,71,71,,26,26.561,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,128,8,kg,128,128,,794,794.16,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2285,8,kg,2285,2285,,83,83.666,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,174850000,8,kg,174850000,174850000,,20574962,20574962.439,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,850,8,kg,850,850,,1328,1328.026,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2870,8,kg,2870,2870,,4549,4549.817,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3593,8,kg,3593,3593,,8930,8930.976,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,10055000,8,kg,10055000,10055000,,1114397,1114397.174,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2550000,8,kg,2550000,2550000,,299602,299602.69,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,101,8,kg,101,101,,264,264.277,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5855,8,kg,5855,5855,,5725,5725.121,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1970,8,kg,1970,1970,,1668,1668.001,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3681167,8,kg,3681167,3681167,,732636,732636.148,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,176,8,kg,176,176,,50,50.465,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4000,8,kg,4000,4000,,638,638.781,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,131014239,8,kg,131014239,131014239,,8959144,8959144.352,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,61911245,8,kg,61911245,61911245,,3441551,3441551.776,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,10000000,8,kg,10000000,10000000,,741228,741228.477,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,500,8,kg,500,500,,4779,4779.566,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,10344,8,kg,10344,10344,,3767,3767.61,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,11309,8,kg,11309,11309,,18296,18296.216,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,203780,8,kg,203780,203780,,83115,83115.842,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,9580,8,kg,9580,9580,,5664,5664.031,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,453066042,8,kg,453066042,453066042,,27417800,27417800.239,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,12427347,8,kg,12427347,12427347,,4403794,4403794.342,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,13,8,kg,13,13,,193,193.892,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,20,8,kg,20,20,,2,2.656,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,96000047,-1,N/A,0,96000047,,6367612,6367612.952,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,745,-1,N/A,0,,,62,62.417,,0
+H4,2013,2013,2013,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1209670621,-1,N/A,0,,,101334546,101334546.266,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,958357409,8,kg,958357409,958357409,,82625094,82625094.568,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,168,8,kg,168,168,,5,5.315,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,25303000,8,kg,25303000,25303000,,2726314,2726314.941,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,600,8,kg,600,600,,27,27.905,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,109,8,kg,109,109,,405,405.287,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,97,8,kg,97,97,,63,63.783,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,214025552,8,kg,214025552,214025552,,25016952,25016952.266,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,760,8,kg,760,760,,760,760.08,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4407,8,kg,4407,4407,,479,479.701,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,11138,8,kg,11138,11138,,19961,19961.39,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,539,8,kg,539,539,,57,57.139,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3300000,8,kg,3300000,3300000,,388237,388237.2,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,110,8,kg,110,110,,106,106.305,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,207814000,8,kg,207814000,207814000,,13462778,13462778.582,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2370,8,kg,2370,2370,,1191,1191.943,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,22600,8,kg,22600,22600,,26363,26363.598,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3419,8,kg,3419,3419,,8267,8267.858,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2926,8,kg,2926,2926,,770,770.71,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2216297,8,kg,2216297,2216297,,357772,357772.893,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1090,8,kg,1090,1090,,5614,5614.224,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,80,8,kg,80,80,,293,293.667,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,82740,8,kg,82740,82740,,31289,31289.498,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4314,8,kg,4314,4314,,1510,1510.857,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,24500,8,kg,24500,24500,,3089,3089.484,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1000,8,kg,1000,1000,,26,26.576,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,123470100,8,kg,123470100,123470100,,13342818,13342818.896,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4830,8,kg,4830,4830,,1037,1037.801,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,80057,8,kg,80057,80057,,21670,21670.24,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2507648,8,kg,2507648,2507648,,180784,180784.652,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,104810,8,kg,104810,104810,,61998,61998.306,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,367739764,8,kg,367739764,367739764,,22607930,22607930.667,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,11628294,8,kg,11628294,11628294,,4356057,4356057.022,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,30,8,kg,30,30,,107,107.634,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,30,8,kg,30,30,,95,95.674,,0
+H4,2014,2014,2014,6,1,0,M,97,EU-28,EUR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,30,8,kg,30,30,,252,252.474,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1250,8,kg,1250,1250,,1836,1836.973,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3050,8,kg,3050,3050,,4119,4119.878,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3965,8,kg,3965,3965,,572,572.39,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,255570000,8,kg,255570000,255570000,,28396576,28396576.049,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,818,8,kg,818,818,,221,221.857,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,87,8,kg,87,87,,838,838.618,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,75,8,kg,75,75,,1500,1500.86,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2600,8,kg,2600,2600,,3492,3492.024,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4500,8,kg,4500,4500,,12233,12233.177,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2572,8,kg,2572,2572,,827,827.525,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3730043,8,kg,3730043,3730043,,459476,459476.265,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,10886,8,kg,10886,10886,,17328,17328.116,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,766,8,kg,766,766,,2242,2242.971,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,219541726,8,kg,219541726,219541726,,12291585,12291585.211,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,9736,8,kg,9736,9736,,2010,2010.021,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3204,8,kg,3204,3204,,9546,9546.493,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,437681,8,kg,437681,437681,,463761,463761.426,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,883,8,kg,883,883,,177,177.485,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,862,8,kg,862,862,,144,144.207,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,114475671,8,kg,114475671,114475671,,11807123,11807123.448,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,25000,8,kg,25000,25000,,5925,5925.792,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,15209360,8,kg,15209360,15209360,,1441329,1441329.598,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,21779757,8,kg,21779757,21779757,,1040569,1040569.921,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,27,8,kg,27,27,,49,49.918,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5734,8,kg,5734,5734,,3431,3431.013,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,396571469,8,kg,396571469,396571469,,26937146,26937146.274,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,7248156,8,kg,7248156,7248156,,2314853,2314853.646,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,25,8,kg,25,25,,273,273.993,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,15,8,kg,15,15,,86,86.524,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8,8,kg,8,8,,178,178.595,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6,8,kg,6,6,,33,33.279,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6,8,kg,6,6,,93,93.18,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4,8,kg,4,4,,56,56.573,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2378397,-1,N/A,0,2378397,,358764,358764.428,,0
+H4,2015,2015,2015,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1037018339,-1,N/A,0,1037018339,,85578407,85578407.727,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,84809985,8,kg,84799820,84809985,0,7553956,7553956.487,,6
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,749877903,8,kg,749867738,749877903,0,64328200,64328200.356,,6
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,749877903,8,kg,749867738,749877903,0,64328200,64328200.356,,6
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,84809985,8,kg,84799820,84809985,0,7553956,7553956.487,,6
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,7499,8,kg,7499,7499,0,1162,1162.987,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,739,8,kg,739,739,0,2460,2460.973,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,268150000,8,kg,268150000,268150000,0,26656167,26656167.472,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4928,8,kg,4928,4928,0,5144,5144.364,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,32,8,kg,32,32,0,258,258.933,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,10610,8,kg,10610,10610,0,1174,1174.052,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,11070,8,kg,11070,11070,0,1224,1224.954,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,120,8,kg,120,120,0,65,65.287,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,18310,8,kg,18310,18310,0,2026,2026.098,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,17,8,kg,17,17,0,473,473.605,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,20,8,kg,20,20,0,162,162.663,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5775,8,kg,5775,5775,0,652,652.866,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,23,8,kg,23,23,0,431,431.556,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,162,8,kg,162,162,0,5303,5303.707,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6022139,8,kg,6022139,6022139,0,345785,345785.562,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,181013370,8,kg,181013370,181013370,0,10700379,10700379.478,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,10000,8,kg,10000,10000,0,788,788.972,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8152,8,kg,8152,8152,0,3131,3131.544,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,136500,8,kg,136500,136500,0,16889,16889.315,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,15,8,kg,15,15,0,144,144.958,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3,8,kg,3,3,0,49,49.795,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1100038,8,kg,1100038,1100038,0,163485,163485.423,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,503693,8,kg,503693,503693,0,498461,498461.071,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,16,8,kg,16,16,0,88,88.524,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,64,8,kg,64,64,0,329,329.753,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,170500610,8,kg,170500610,170500610,0,13481627,13481627.889,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,9984267,8,kg,9984267,9984267,0,3239866,3239866.944,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,404,Kenya,KEN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,7499,8,kg,7499,7499,0,1162,1162.987,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,586,Pakistan,PAK,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,739,8,kg,739,739,0,2460,2460.973,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,70,Bosnia Herzegovina,BIH,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5775,8,kg,5775,5775,0,652,652.866,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,498,Rep. of Moldova,MDA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,120,8,kg,120,120,0,65,65.287,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,8,Albania,ALB,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,32,8,kg,32,32,0,258,258.933,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,800,Uganda,UGA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,18310,8,kg,18310,18310,0,2026,2026.098,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,11070,8,kg,11070,11070,0,1224,1224.954,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,20,8,kg,20,20,0,162,162.663,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4928,8,kg,4928,4928,0,5144,5144.364,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,32,Argentina,ARG,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,17,8,kg,17,17,0,473,473.605,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,398,Kazakhstan,KAZ,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,10610,8,kg,10610,10610,0,1174,1174.052,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,23,8,kg,23,23,0,431,431.556,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,268150000,8,kg,268150000,268150000,0,26656167,26656167.472,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,784,United Arab Emirates,ARE,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,10000,8,kg,10000,10000,0,788,788.972,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6022139,8,kg,6022139,6022139,0,345785,345785.562,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,162,8,kg,162,162,0,5303,5303.707,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,181013370,8,kg,181013370,181013370,0,10700379,10700379.478,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,360,Indonesia,IDN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8152,8,kg,8152,8152,0,3131,3131.544,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,15,8,kg,15,15,0,144,144.958,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1100038,8,kg,1100038,1100038,0,163485,163485.423,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,410,Rep. of Korea,KOR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,136500,8,kg,136500,136500,0,16889,16889.315,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,16,8,kg,16,16,0,88,88.524,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,503693,8,kg,503693,503693,0,498461,498461.071,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,76,Brazil,BRA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3,8,kg,3,3,0,49,49.795,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,64,8,kg,64,64,0,329,329.753,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,170500610,8,kg,170500610,170500610,0,13481627,13481627.889,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,9984267,8,kg,9984267,9984267,0,3239866,3239866.944,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4452409,8,kg,4452409,4452409,0,436542,436542.806,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4452409,8,kg,4452409,4452409,0,436542,436542.806,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,23117822,8,kg,23117822,23117822,0,1201580,1201580.181,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,23117822,8,kg,23117822,23117822,0,1201580,1201580.181,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,9515,8,kg,9515,9515,0,8382,8382.137,,0
+H4,2016,2016,2016,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,9515,8,kg,9515,9515,0,8382,8382.137,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,512,Oman,OMN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),-1,N/A,0,8,kg,1,,0,62,62.049,,6
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),-1,N/A,0,8,kg,1053435778,,0,76851506,76851506.933,,6
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,508,Mozambique,MOZ,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),-1,N/A,0,8,kg,10,,0,499,499.779,,6
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),-1,N/A,0,8,kg,1053435778,,0,76851506,76851506.933,,6
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),-1,N/A,0,8,kg,10,,0,499,499.779,,6
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),-1,N/A,0,8,kg,1,,0,62,62.049,,6
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,85689948,8,kg,85685993,85689948,0,7456274,7456274.687,,6
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,85689948,8,kg,85685993,85689948,0,7456274,7456274.687,,6
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,702,Singapore,SGP,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8038,8,kg,102,8038,0,724,724.285,,6
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8038,8,kg,102,8038,0,724,724.285,,6
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,694,Sierra Leone,SLE,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,59,8,kg,59,59,0,185,185.02,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,591,Panama,PAN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,20,8,kg,20,20,0,245,245.941,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,12850000,8,kg,12850000,12850000,0,704747,704747.442,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,858,Uruguay,URY,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,430,8,kg,430,430,0,1356,1356.06,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,414,Kuwait,KWT,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14,8,kg,14,14,0,11,11.282,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,50653300,8,kg,50653300,50653300,0,4371632,4371632.492,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6800,8,kg,6800,6800,0,767,767.156,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,368,Iraq,IRQ,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,950,8,kg,950,950,0,740,740.079,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6,8,kg,6,6,0,1,1.128,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,400,Jordan,JOR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4625,8,kg,4625,4625,0,2063,2063.423,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,192,Cuba,CUB,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,19,8,kg,19,19,0,82,82.356,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,404,Kenya,KEN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2000,8,kg,2000,2000,0,3912,3912.493,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,179696860,8,kg,179696860,179696860,0,18298834,18298834.874,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,144,Sri Lanka,LKA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,13709,8,kg,13709,13709,0,1701,1701.28,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,60,8,kg,60,60,0,1359,1359.445,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14,8,kg,14,14,0,126,126.355,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,24,Angola,AGO,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,28,8,kg,28,28,0,291,291.068,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,32,Argentina,ARG,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3736,8,kg,3736,3736,0,6840,6840.094,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,586,Pakistan,PAK,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,33342,8,kg,33342,33342,0,3992,3992.593,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,604,Peru,PER,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,469,8,kg,469,469,0,2207,2207.829,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,83200254,8,kg,83200254,83200254,0,6033430,6033430.169,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,70,Bosnia Herzegovina,BIH,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5081532,8,kg,5081532,5081532,0,309901,309901.508,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,68493203,8,kg,68493203,68493203,0,4090741,4090741.874,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,458,Malaysia,MYS,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,21268,8,kg,21268,21268,0,32174,32174.278,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,220511318,8,kg,220511318,220511318,0,12573000,12573000.234,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2482081,8,kg,2482081,2482081,0,230705,230705.108,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,360,Indonesia,IDN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8425,8,kg,8425,8425,0,2108,2108.55,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,784,United Arab Emirates,ARE,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,168,8,kg,168,168,0,491,491.882,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,344,"China, Hong Kong SAR",HKG,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,300000,8,kg,300000,300000,0,78416,78416.835,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5881,8,kg,5881,5881,0,729,729.926,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14832606,8,kg,14832606,14832606,0,561053,561053.567,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,26535,8,kg,26535,26535,0,24002,24002.943,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1614979,8,kg,1614979,1614979,0,257771,257771.032,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,76,Brazil,BRA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,89,8,kg,89,89,0,1423,1423.75,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,7,8,kg,7,7,0,41,41.742,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,50,8,kg,50,50,0,181,181.635,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,688,Serbia,SRB,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,16464831,8,kg,16464831,16464831,0,747264,747264.782,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,392,Japan,JPN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4450,8,kg,4450,4450,0,602,602.443,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,286380556,8,kg,286380556,286380556,0,15029162,15029162.658,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,15533262,8,kg,15533262,15533262,0,5599400,5599400.637,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,484,Mexico,MEX,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,10,8,kg,10,10,0,32,32.717,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,899,"Areas, nes",_X ,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3450,8,kg,3450,3450,0,3948,3948.595,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,9516410,8,kg,9516410,9516410,0,415533,415533.186,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,320,8,kg,320,320,0,102,102.663,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1546,8,kg,1546,1546,0,625,625.006,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,20,8,kg,20,20,0,245,245.941,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2000,8,kg,2000,2000,0,3912,3912.493,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,430,8,kg,430,430,0,1356,1356.06,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,13709,8,kg,13709,13709,0,1701,1701.28,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,12850000,8,kg,12850000,12850000,0,704747,704747.442,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,50653300,8,kg,50653300,50653300,0,4371632,4371632.492,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,950,8,kg,950,950,0,740,740.079,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6,8,kg,6,6,0,1,1.128,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4625,8,kg,4625,4625,0,2063,2063.423,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,179696860,8,kg,179696860,179696860,0,18298834,18298834.874,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,60,8,kg,60,60,0,1359,1359.445,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,28,8,kg,28,28,0,291,291.068,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,59,8,kg,59,59,0,185,185.02,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14,8,kg,14,14,0,126,126.355,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14,8,kg,14,14,0,11,11.282,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,19,8,kg,19,19,0,82,82.356,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6800,8,kg,6800,6800,0,767,767.156,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,33342,8,kg,33342,33342,0,3992,3992.593,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3736,8,kg,3736,3736,0,6840,6840.094,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,469,8,kg,469,469,0,2207,2207.829,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,83200254,8,kg,83200254,83200254,0,6033430,6033430.169,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5081532,8,kg,5081532,5081532,0,309901,309901.508,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,68493203,8,kg,68493203,68493203,0,4090741,4090741.874,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2482081,8,kg,2482081,2482081,0,230705,230705.108,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,220511318,8,kg,220511318,220511318,0,12573000,12573000.234,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,168,8,kg,168,168,0,491,491.882,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,21268,8,kg,21268,21268,0,32174,32174.278,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,10,8,kg,10,10,0,32,32.717,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,300000,8,kg,300000,300000,0,78416,78416.835,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8425,8,kg,8425,8425,0,2108,2108.55,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14832606,8,kg,14832606,14832606,0,561053,561053.567,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5881,8,kg,5881,5881,0,729,729.926,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,26535,8,kg,26535,26535,0,24002,24002.943,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1614979,8,kg,1614979,1614979,0,257771,257771.032,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,7,8,kg,7,7,0,41,41.742,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,89,8,kg,89,89,0,1423,1423.75,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4450,8,kg,4450,4450,0,602,602.443,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,16464831,8,kg,16464831,16464831,0,747264,747264.782,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,50,8,kg,50,50,0,181,181.635,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,15533262,8,kg,15533262,15533262,0,5599400,5599400.637,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,286380556,8,kg,286380556,286380556,0,15029162,15029162.658,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1546,8,kg,1546,1546,0,625,625.006,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,320,8,kg,320,320,0,102,102.663,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,9516410,8,kg,9516410,9516410,0,415533,415533.186,,0
+H5,2017,2017,2017,6,1,0,M,97,EU-28,EUR,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3450,8,kg,3450,3450,0,3948,3948.595,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,64017100,8,kg,64017100,64017100,0,5401378,5401378.452,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,7765210,8,kg,7765210,7765210,0,1038927,1038927.916,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6,8,kg,6,6,0,68,68.443,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2825,8,kg,2825,2825,0,1642,1642.639,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,28,8,kg,28,28,0,984,984.167,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,200000,8,kg,200000,200000,0,60627,60627.779,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,11,8,kg,11,11,0,147,147.507,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,20,8,kg,20,20,0,485,485.003,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,170,8,kg,170,170,0,997,997.148,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,63,8,kg,63,63,0,696,696.234,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,20,8,kg,20,20,0,83,83.784,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,258126005,8,kg,258126005,258126005,0,23896485,23896485.539,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,30,8,kg,30,30,0,83,83.784,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3009,8,kg,3009,3009,0,4218,4218.703,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,52,8,kg,52,52,0,1580,1580.096,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,26010890,8,kg,26010890,26010890,0,1797103,1797103.796,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,112492730,8,kg,112492730,112492730,0,7848554,7848554.303,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,538,8,kg,538,538,0,7824,7824.957,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,350000,8,kg,350000,350000,0,106622,106622.853,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,139934045,8,kg,139934045,139934045,0,8158888,8158888.003,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,160,8,kg,160,160,0,1767,1767.725,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,353,8,kg,353,353,0,370,370.538,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,209790055,8,kg,209790055,209790055,0,13742317,13742317.359,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,61931900,8,kg,61931900,61931900,0,2991907,2991907.776,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,32178,8,kg,32178,32178,0,1877,1877.47,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,806780,8,kg,806780,806780,0,156641,156641.921,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8,8,kg,8,8,0,266,266.693,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,55365732,8,kg,55365732,55365732,0,2805057,2805057.58,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1941,8,kg,1941,1941,0,2630,2630.347,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,11323939,8,kg,11323939,11323939,0,4485452,4485452.578,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,157837526,8,kg,157837526,157837526,0,9756320,9756320.286,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2,8,kg,2,2,0,194,194.709,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,577,"Other Africa, nes",F19,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1920,8,kg,1920,1920,0,5041,5041.203,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1106060188,8,kg,1106060188,1106060188,0,82338795,82338795.514,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,52,8,kg,52,52,0,81,81.424,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,17422,8,kg,17422,17422,0,34454,34454.119,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,142,8,kg,142,142,0,17,17.701,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,195,8,kg,195,195,0,522,522.765,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,47131,8,kg,47131,47131,0,26472,26472.214,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,47131,8,kg,47131,47131,0,26472,26472.214,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,195,8,kg,195,195,0,522,522.765,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,142,8,kg,142,142,0,17,17.701,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,17422,8,kg,17422,17422,0,34454,34454.119,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,490,"Other Asia, nes",S19,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,52,8,kg,52,52,0,81,81.424,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1106060188,8,kg,1106060188,1106060188,0,82338795,82338795.514,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,577,"Other Africa, nes",F19,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1920,8,kg,1920,1920,0,5041,5041.203,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,258126005,8,kg,258126005,258126005,0,23896485,23896485.539,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,51,Armenia,ARM,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,20,8,kg,20,20,0,485,485.003,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,404,Kenya,KEN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2825,8,kg,2825,2825,0,1642,1642.639,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,480,Mauritius,MUS,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,20,8,kg,20,20,0,83,83.784,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,192,Cuba,CUB,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,170,8,kg,170,170,0,997,997.148,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,591,Panama,PAN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,7765210,8,kg,7765210,7765210,0,1038927,1038927.916,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,64017100,8,kg,64017100,64017100,0,5401378,5401378.452,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,600,Paraguay,PRY,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,28,8,kg,28,28,0,984,984.167,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,414,Kuwait,KWT,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,200000,8,kg,200000,200000,0,60627,60627.779,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,368,Iraq,IRQ,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,6,8,kg,6,6,0,68,68.443,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,63,8,kg,63,63,0,696,696.234,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,24,Angola,AGO,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,11,8,kg,11,11,0,147,147.507,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,30,8,kg,30,30,0,83,83.784,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,586,Pakistan,PAK,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3009,8,kg,3009,3009,0,4218,4218.703,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,32,Argentina,ARG,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,52,8,kg,52,52,0,1580,1580.096,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,458,Malaysia,MYS,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,538,8,kg,538,538,0,7824,7824.957,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,112492730,8,kg,112492730,112492730,0,7848554,7848554.303,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,70,Bosnia Herzegovina,BIH,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,26010890,8,kg,26010890,26010890,0,1797103,1797103.796,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,139934045,8,kg,139934045,139934045,0,8158888,8158888.003,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,209790055,8,kg,209790055,209790055,0,13742317,13742317.359,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,344,"China, Hong Kong SAR",HKG,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,350000,8,kg,350000,350000,0,106622,106622.853,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,360,Indonesia,IDN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,160,8,kg,160,160,0,1767,1767.725,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,484,Mexico,MEX,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,32178,8,kg,32178,32178,0,1877,1877.47,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,688,Serbia,SRB,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,55365732,8,kg,55365732,55365732,0,2805057,2805057.58,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,353,8,kg,353,353,0,370,370.538,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,806780,8,kg,806780,806780,0,156641,156641.921,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,61931900,8,kg,61931900,61931900,0,2991907,2991907.776,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8,8,kg,8,8,0,266,266.693,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,392,Japan,JPN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1941,8,kg,1941,1941,0,2630,2630.347,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,157837526,8,kg,157837526,157837526,0,9756320,9756320.286,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,11323939,8,kg,11323939,11323939,0,4485452,4485452.578,,0
+H5,2018,2018,2018,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2,8,kg,2,2,0,194,194.709,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,344,"China, Hong Kong SAR",HKG,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),-1,N/A,0,8,kg,1,,0,39,39.179,,6
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),-1,N/A,0,8,kg,2163579149,,0,123839799,123839799.221,,6
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,48,Bahrain,BHR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),-1,N/A,0,8,kg,4,,0,125,125.374,,6
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),-1,N/A,0,8,kg,4,,0,125,125.374,,6
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),-1,N/A,0,8,kg,2163579149,,0,123839799,123839799.221,,6
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),-1,N/A,0,8,kg,1,,0,39,39.179,,6
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,37650340,8,kg,37574360,37650340,0,1939199,1939199.982,,6
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,37650340,8,kg,37574360,37650340,0,1939199,1939199.982,,6
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,849080122,8,kg,849066160,849080122,0,40083913,40083913.512,,6
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,102724461,8,kg,102721454,102724461,0,4710512,4710512.974,,6
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,102724461,8,kg,102721454,102724461,0,4710512,4710512.974,,6
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,52079,8,kg,154,52079,0,3501,3501.527,,6
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,52079,8,kg,154,52079,0,3501,3501.527,,6
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,849080122,8,kg,849066160,849080122,0,40083913,40083913.512,,6
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8,8,kg,8,8,0,175,175.748,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,15,8,kg,15,15,0,333,333.585,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1459,8,kg,1459,1459,0,2488,2488.457,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,100,8,kg,100,100,0,1,1.119,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,32,8,kg,32,32,0,566,566.423,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4154,8,kg,4154,4154,0,1083,1083.593,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,13,8,kg,13,13,0,237,237.316,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,12,8,kg,12,12,0,226,226.122,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,45,8,kg,45,45,0,342,342.541,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,11,8,kg,11,11,0,118,118.658,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,145,8,kg,145,145,0,602,602.245,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,263937660,8,kg,263937660,263937660,0,10577066,10577066.013,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,254100,8,kg,254100,254100,0,17854,17854.653,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,150600,8,kg,150600,150600,0,35696,35696.992,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,11480,8,kg,11480,11480,0,2084,2084.349,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,150,8,kg,150,150,0,592,592.17,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,305021000,8,kg,305021000,305021000,0,29474191,29474191.955,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,85230030,8,kg,85230030,85230030,0,4563785,4563785.789,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,61881220,8,kg,61881220,61881220,0,3775767,3775767.615,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,132016360,8,kg,132016360,132016360,0,8286574,8286574.9,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,40369,8,kg,40369,40369,0,53904,53904.26,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,47,8,kg,47,47,0,20,20.149,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,54302004,8,kg,54302004,54302004,0,3364910,3364910.229,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,243687740,8,kg,243687740,243687740,0,12237468,12237468.113,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3185,8,kg,3185,3185,0,364,364.929,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,497,8,kg,497,497,0,1572,1572.777,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,12,8,kg,12,12,0,359,359.332,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4680767,8,kg,4680767,4680767,0,569366,569366.403,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,11,8,kg,11,11,0,204,204.853,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,13879499,8,kg,13879499,13879499,0,702712,702712.113,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,28,8,kg,28,28,0,576,576.498,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,20000,8,kg,20000,20000,0,4701,4701.539,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,18,8,kg,18,18,0,154,154.479,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8995230,8,kg,8995230,8995230,0,3316024,3316024.302,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5,8,kg,5,5,0,148,148.882,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,32000,8,kg,32000,32000,0,35821,35821.247,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,61416,8,kg,61416,61416,0,70658,70658.529,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,988,8,kg,988,988,0,1444,1444.044,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4606,8,kg,4606,4606,0,2303,2303.754,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4606,8,kg,4606,4606,0,2303,2303.754,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,988,8,kg,988,988,0,1444,1444.044,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,61416,8,kg,61416,61416,0,70658,70658.529,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,899,"Areas, nes",_X ,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,32000,8,kg,32000,32000,0,35821,35821.247,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,266,Gabon,GAB,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,45,8,kg,45,45,0,342,342.541,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,364,Iran,IRN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,145,8,kg,145,145,0,602,602.245,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,24,Angola,AGO,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,11,8,kg,11,11,0,118,118.658,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,263937660,8,kg,263937660,263937660,0,10577066,10577066.013,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,540,New Caledonia,NCL,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,100,8,kg,100,100,0,1,1.119,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,566,Nigeria,NGA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,12,8,kg,12,12,0,226,226.122,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,144,Sri Lanka,LKA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1459,8,kg,1459,1459,0,2488,2488.457,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,352,Iceland,ISL,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,254100,8,kg,254100,254100,0,17854,17854.653,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,68,Bolivia (Plurinational State of),BOL,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4154,8,kg,4154,4154,0,1083,1083.593,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,686,Senegal,SEN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,150,8,kg,150,150,0,592,592.17,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,404,Kenya,KEN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,32,8,kg,32,32,0,566,566.423,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,120,Cameroon,CMR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8,8,kg,8,8,0,175,175.748,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,512,Oman,OMN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,13,8,kg,13,13,0,237,237.316,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,400,Jordan,JOR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,11480,8,kg,11480,11480,0,2084,2084.349,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,414,Kuwait,KWT,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,150600,8,kg,150600,150600,0,35696,35696.992,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,192,Cuba,CUB,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,15,8,kg,15,15,0,333,333.585,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,305021000,8,kg,305021000,305021000,0,29474191,29474191.955,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,85230030,8,kg,85230030,85230030,0,4563785,4563785.789,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,70,Bosnia Herzegovina,BIH,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,61881220,8,kg,61881220,61881220,0,3775767,3775767.615,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,458,Malaysia,MYS,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,40369,8,kg,40369,40369,0,53904,53904.26,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,132016360,8,kg,132016360,132016360,0,8286574,8286574.9,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,47,8,kg,47,47,0,20,20.149,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,243687740,8,kg,243687740,243687740,0,12237468,12237468.113,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,54302004,8,kg,54302004,54302004,0,3364910,3364910.229,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,360,Indonesia,IDN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3185,8,kg,3185,3185,0,364,364.929,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4680767,8,kg,4680767,4680767,0,569366,569366.403,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,484,Mexico,MEX,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,497,8,kg,497,497,0,1572,1572.777,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,12,8,kg,12,12,0,359,359.332,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,76,Brazil,BRA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,11,8,kg,11,11,0,204,204.853,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,688,Serbia,SRB,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,13879499,8,kg,13879499,13879499,0,702712,702712.113,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,20000,8,kg,20000,20000,0,4701,4701.539,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,410,Rep. of Korea,KOR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,28,8,kg,28,28,0,576,576.498,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,392,Japan,JPN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,18,8,kg,18,18,0,154,154.479,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8995230,8,kg,8995230,8995230,0,3316024,3316024.302,,0
+H5,2019,2019,2019,6,1,0,M,97,EU-28,EUR,384,Côte d'Ivoire,CIV,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,5,8,kg,5,5,0,148,148.882,,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3547,-1,N/A,0,3547,0,1332,1332.286,0,6
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,699,India,IND,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3547,-1,N/A,0,3547,0,1332,1332.286,0,6
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2514294441,-1,N/A,0,2514294441,0,134807931,134807931.239,0,6
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,0,World,W00,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2514294441,-1,N/A,0,2514294441,0,134807931,134807931.239,0,6
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,32,8,kg,32,32,0,254,254.366,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,120105000,8,kg,120105000,120105000,0,7858395,7858395.707,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3315000,8,kg,3315000,3315000,0,193147,193147.201,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,45,8,kg,45,45,0,677,677.549,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1896,8,kg,1896,1896,0,8680,8680.389,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1580,8,kg,1580,1580,0,1381,1381.334,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14579800,8,kg,14579800,14579800,0,1840079,1840079.266,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14,8,kg,14,14,0,123,123.191,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,86956100,8,kg,86956100,86956100,0,9701537,9701537.633,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,51070000,8,kg,51070000,51070000,0,2045130,2045130.348,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,155160021,8,kg,155160021,155160021,0,7832948,7832948.823,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,107,8,kg,107,107,0,99,99.237,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,12018900,8,kg,12018900,12018900,0,914214,914214.875,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,10000,8,kg,10000,10000,0,2458,2458.113,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2027,8,kg,2027,2027,0,1707,1707.561,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,121296956,8,kg,121296956,121296956,0,8092544,8092544.912,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,25,8,kg,25,25,0,459,459.684,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,63330370,8,kg,63330370,63330370,0,3461708,3461708.169,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2782500,8,kg,2782500,2782500,0,356476,356476.526,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2550,8,kg,2550,2550,0,6405,6405.921,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,223176000,8,kg,223176000,223176000,0,11181362,11181362.523,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3081,8,kg,3081,3081,0,1918,1918.583,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14630,8,kg,14630,14630,0,565,565.765,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1032707,8,kg,1032707,1032707,0,218582,218582.679,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,25,8,kg,25,25,0,315,315.962,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,35317110,8,kg,35317110,35317110,0,1756895,1756895.821,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14,8,kg,14,14,0,203,203.037,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,33260963,8,kg,33260963,33260963,0,2039225,2039225.174,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,66,8,kg,66,66,0,414,414.058,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4443564,8,kg,4443564,4443564,0,1613352,1613352.307,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1577822278,8,kg,1577822278,1577822278,0,75366941,75366941.188,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4,8,kg,4,4,0,128,128.894,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,59950,8,kg,59950,59950,0,71885,71885.252,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,13391,8,kg,13391,13391,0,2404,2404.502,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8514186,8,kg,8514186,8514186,0,233881,233881.151,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,579,Norway,NOR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,8514186,8,kg,8514186,8514186,0,233881,233881.151,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,757,Switzerland,CHE,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,13391,8,kg,13391,13391,0,2404,2404.502,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,842,USA,USA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,59950,8,kg,59950,59950,0,71885,71885.252,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,608,Philippines,PHL,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,107,8,kg,107,107,0,99,99.237,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,218,Ecuador,ECU,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14,8,kg,14,14,0,123,123.191,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,12,Algeria,DZA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,51070000,8,kg,51070000,51070000,0,2045130,2045130.348,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,862,Venezuela,VEN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,120105000,8,kg,120105000,120105000,0,7858395,7858395.707,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,422,Lebanon,LBN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,45,8,kg,45,45,0,677,677.549,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,398,Kazakhstan,KAZ,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,32,8,kg,32,32,0,254,254.366,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,324,Guinea,GIN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1580,8,kg,1580,1580,0,1381,1381.334,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,682,Saudi Arabia,SAU,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,155160021,8,kg,155160021,155160021,0,7832948,7832948.823,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,214,Dominican Rep.,DOM,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14579800,8,kg,14579800,14579800,0,1840079,1840079.266,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,780,Trinidad and Tobago,TTO,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,12018900,8,kg,12018900,12018900,0,914214,914214.875,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,192,Cuba,CUB,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1896,8,kg,1896,1896,0,8680,8680.389,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,352,Iceland,ISL,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3315000,8,kg,3315000,3315000,0,193147,193147.201,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,170,Colombia,COL,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,86956100,8,kg,86956100,86956100,0,9701537,9701537.633,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,152,Chile,CHL,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,10000,8,kg,10000,10000,0,2458,2458.113,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,586,Pakistan,PAK,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2027,8,kg,2027,2027,0,1707,1707.561,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,788,Tunisia,TUN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,121296956,8,kg,121296956,121296956,0,8092544,8092544.912,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,784,United Arab Emirates,ARE,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,25,8,kg,25,25,0,459,459.684,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,376,Israel,ISR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,3081,8,kg,3081,3081,0,1918,1918.583,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,70,Bosnia Herzegovina,BIH,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,63330370,8,kg,63330370,63330370,0,3461708,3461708.169,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,818,Egypt,EGY,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2782500,8,kg,2782500,2782500,0,356476,356476.526,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,704,Viet Nam,VNM,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2550,8,kg,2550,2550,0,6405,6405.921,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,504,Morocco,MAR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,223176000,8,kg,223176000,223176000,0,11181362,11181362.523,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,710,South Africa,ZAF,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1032707,8,kg,1032707,1032707,0,218582,218582.679,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,804,Ukraine,UKR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,35317110,8,kg,35317110,35317110,0,1756895,1756895.821,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,124,Canada,CAN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14630,8,kg,14630,14630,0,565,565.765,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,764,Thailand,THA,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,25,8,kg,25,25,0,315,315.962,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,392,Japan,JPN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,14,8,kg,14,14,0,203,203.037,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,643,Russian Federation,RUS,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,66,8,kg,66,66,0,414,414.058,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,688,Serbia,SRB,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,33260963,8,kg,33260963,33260963,0,2039225,2039225.174,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,792,Turkey,TUR,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,1577822278,8,kg,1577822278,1577822278,0,75366941,75366941.188,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,156,China,CHN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4443564,8,kg,4443564,4443564,0,1613352,1613352.307,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,591,Panama,PAN,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,4,8,kg,4,4,0,128,128.894,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,36,Australia,AUS,0,World,W00,C01,Clearance for home use,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2,8,kg,2,2,0,91,91.252,0,0
+H5,2020,2020,2020,6,1,0,M,97,EU-28,EUR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,252310,Cement clinkers (whether or not coloured),8,kg,2,8,kg,2,2,0,91,91.252,0,0
